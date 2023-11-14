@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a Python project that I created during my Data Analytics bootcamp with CareerFoundry. In this project, I act as an analyst for Instacart and perform exploratory data analysis to give insights and recommendations to the sales and marketing teams to help with customer segmentation.
+This is a Python project that I created during my Data Analytics bootcamp with CareerFoundry. In this project, I assume the role of an analyst at Instacart, conducting exploratory data analysis. My objective is to provide valuable insights and recommendations to the sales and marketing teams, contributing to enhanced customer segmentation strategies.
 
 ## Technical Skills Used
 - Python
