@@ -16,7 +16,8 @@ This is a Python project that I created during my Data Analytics bootcamp with C
 5. Derive new variables from order and customer dataframes
 6. Create customer flags to help with customer segmentation for marketing and sales strategies
 7. Create data visualizations with Python
-8. Create Excel report for stakeholders summarizing customer insights and sales and marketing recommendations
+8. Create Excel report for stakeholders documenting methodology and summarizing customer insights for sales and marketing recommendations
 
 ## Deliverables
-- 
+- [Report](https://github.com/JarrettPugh/CF_Instacart_Analysis/blob/19bb31fae5a9c7c02c68c45be8e8d59f819d573d/Instacart%20Report.xlsx)
+
