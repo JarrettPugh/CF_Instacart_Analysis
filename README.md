@@ -25,6 +25,7 @@ This is a Python project that I created during my Data Analytics bootcamp with C
 ## Data Citation
 
 - [Instacart Data Sets](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis)
+- [Instacart Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
 - [Customers Data Set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
-- [Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
+
   
