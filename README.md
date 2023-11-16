@@ -21,3 +21,7 @@ This is a Python project that I created during my Data Analytics bootcamp with C
 ## Deliverables
 - [Report](https://github.com/JarrettPugh/CF_Instacart_Analysis/blob/19bb31fae5a9c7c02c68c45be8e8d59f819d573d/Instacart%20Report.xlsx)
 
+
+## Data Citation
+
+“The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on 10/12/23.
